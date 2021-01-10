@@ -16,7 +16,7 @@ const postgres = require("postgres");
 // }
 
 sql = postgres(
-  "postgres://jmazokdg:1y1_D7jg23sA676hrcNuSV4fIy3TIz2L@satao.db.elephantsql.com:5432/jmazokdg"
+  "Your uri"
 );
 
 module.exports = sql;
